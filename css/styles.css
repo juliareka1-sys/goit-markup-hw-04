@@ -37,9 +37,9 @@ img {
 
 /*header*/
 .page-header {
-  border-bottom: 1px solid #e7e9fc;
+border-bottom: 1px solid #e7e9fc;
 box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 2px 1px 0 rgba(46, 47, 66, 0.08);
-    background: #fff;
+background: #fff;
     
    
 }
@@ -213,11 +213,11 @@ gap: 24px;
 }
 
 .icon-box {
-border: 1px solid #8e8f99;
+    border: 1px solid #8e8f99;
     border-radius: 4px;
     width: 264px;
     height: 112px;
-    background: #f4f4fd; 
+    background: #f4f4fd;
 }
 
 .icon {
@@ -302,17 +302,18 @@ width: calc((100% - 72px) / 4);
     justify-content: center;
     align-items: center;
     gap: 24px;
+    padding-top: 8px;
 }
 
 .link-socials {
-    fill: #4d5ae5;
+    fill: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: #03a9f4;
+    background-color:#4d5ae5;
 }
 
 .card-content { 
