@@ -250,16 +250,6 @@ width: calc((100% - 72px) / 4);
         color: #434455;
 }
 
-/* .icon-box {
-  display: flex;
-  justify-content: center;
-  align-items: center;    
-  width: 40px;
-  height: 40px;
-  background: #03a9f4;
-  border-radius: 50%;} */
-
-
 /*------------------------------team----------------------*/
 .team-header {
         margin-bottom: 72px;
